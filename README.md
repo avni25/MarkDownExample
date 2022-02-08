@@ -48,7 +48,7 @@ ___
 `<p>This is a paragraph</p>`
 
 <!-- Images -->
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
+![Markdown Logo](https://mpng.subpng.com/20180417/htq/kisspng-the-legend-of-zelda-the-minish-cap-the-legend-of-the-legend-of-zelda-5ad60e09d1a4e1.6136012615239777378587.jpg)
 
 <!-- Github Markdown -->
 
