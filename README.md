@@ -73,8 +73,8 @@ ___
 <!-- Tables -->
 | Name     | Email          |
 | -------- | -------------- |
-| John Doe | john@gmail.com |
-| Jane Doe | jane@gmail.com |
+| Link Greencap | link@gmail.com |
+| Zelda Princess | zelda@gmail.com |
 
 <!-- Task List -->
 * [x] Task 1
