@@ -28,9 +28,9 @@ ___
 > This is a quote
 
 <!-- Links -->
-[Traversy Media](http://www.traversymedia.com)
+[my github](https://github.com/avni25)
 
-[Traversy Media](http://www.traversymedia.com "Traversy Media")
+
 
 <!-- UL -->
 * Item 1
